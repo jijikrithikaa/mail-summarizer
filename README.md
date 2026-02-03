@@ -25,3 +25,6 @@ based on context, tone, and key points.
 - Python
 - OpenAI API
 - Web Interface
+
+
+ Link: (project working) http://localhost:5173/
